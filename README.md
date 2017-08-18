@@ -5,7 +5,9 @@
 JavaScript Request Encode Data
 ```
 <script src="ajaxCrypto.js"></script>
-ajaxCrypto("post-or-get", "test.php", {isim:"ihaci",soyisim:"berkpw"}, setHeader_func_or_null, success_func, error_func);
+<script>
+  ajaxCrypto("post-or-get", "test.php", {isim:"ihaci",soyisim:"berkpw"}, setHeader_func_or_null, success_func, error_func);
+</script>
 ```
 
 Php Decode Data
