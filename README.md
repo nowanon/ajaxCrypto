@@ -8,7 +8,7 @@ JavaScript Request Encode Data
 ajaxCrypto("post-or-get", "test.php", {isim:"ihaci",soyisim:"berkpw"}, setHeader_func_or_null, success_func, error_func);
 ```
 
-Php Decode Request Data
+Php Decode Data
 ```
 require_once("ajaxCrypto.php");
 if($ajaxCrypto->post){
