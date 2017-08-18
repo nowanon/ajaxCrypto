@@ -17,4 +17,4 @@ if($ajaxCrypto->get){
 }
 ```
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/nowanon/ajaxCrypto/master/example.png" />
