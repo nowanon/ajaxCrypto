@@ -3,6 +3,7 @@ Encode Ajax Request Data &amp; Decode PHP post-get
 
 JavaScript Request Encode Data
 ```
+<script src="ajaxCrypto.js"></script>
 ajaxCrypto("post-or-get", "test.php", {isim:"ihaci",soyisim:"berkpw"}, success_function, error_function);
 ```
 
