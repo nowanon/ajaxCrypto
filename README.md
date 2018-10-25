@@ -1,6 +1,7 @@
 # ajaxCrypto
 ## Encode Ajax Request Data &amp; Decode PHP post-get
 
+Example video: https://www.youtube.com/watch?v=v0PQbwXCvLs
 
 JavaScript Request Encode Data
 ```
